@@ -8,7 +8,6 @@ The Crop Recommendation System is an application that utilizes machine learning 
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 
 ## Features
 
